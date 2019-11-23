@@ -108,7 +108,7 @@ Todavía no se han mandado ejercicios.
 
 
 
-[logo]: commodoro/clasesPython/src/branch/master/src/pyLogo.png "Logo"
+[logo]: src/pyLogo.png "Logo"
 [guia_academica]: https://autentica.upct.es/apps/guiasdocentes?codDep=D020&anyAnyaca=2018-19&steCod=GRADO&assCodnum=507101004&locale=esplan_estudios.php#1
 [pandas]: https://es.wikipedia.org/wiki/Pandas
 [numpy]: https://es.wikipedia.org/wiki/NumPy
