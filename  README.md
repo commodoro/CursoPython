@@ -1,10 +1,3 @@
----
-title: "Curso Pytohn"
-author: "Mariano Fernández Abadía"
-date: "9/10/2019"
-output: pdf_document
----
-
 Introducción a Python en el Ámbito Científico/Técnico
 ======================================================
 
