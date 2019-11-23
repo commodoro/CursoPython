@@ -1,12 +1,6 @@
 # Introducción a Python en el Ámbito Científico/Técnico
 
-<div style="text-align: center; width: 80%; height: auto;">
-
 ![alt text][logo]
-
-</div>
-
-<div style="text-align: justify;">
 
 ## Resumen
 
@@ -104,7 +98,7 @@ No se requiere material por parte del alumno. Si este lo desea, puede traer un o
 Todavía no se han mandado ejercicios.
 
 ---------------------------------------------------------------
-</div>
+
 
 ## Referencias
 
