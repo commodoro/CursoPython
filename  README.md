@@ -1,5 +1,4 @@
-Introducción a Python en el Ámbito Científico/Técnico
-======================================================
+# Introducción a Python en el Ámbito Científico/Técnico
 
 <div style="text-align: center; width: 80%; height: auto;">
 
