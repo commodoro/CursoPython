@@ -5,7 +5,8 @@ El paquete PIL (Python Imaging Library) nos permite manipular y analizar imágen
 Vamos a aprender algunas cosas sobre el módulo PIL.Image. Con él podemos cargar imagenes para trabajar con ellas:
 
     import PIL.Image
-    imagen = PIL.Image.open('src/pil_tesy.bmp') # La carpeta src tiene que estar en la misma carpeta.
+    imagen = PIL.Image.open('src/pil_test.bmp') 
+    # La carpeta src tiene que estar en la misma carpeta que el script.
 
 Una vez hecho podemos leer/escribir en píxeles concretos:
 
@@ -30,11 +31,11 @@ Una vez que cambiamos los valores con putpixel, podemos guardar la imagen:
 
 En este ejercicio vamos a buscar patrones simples en pequeñas imágenes. Por ejemplo en siguiente imagen (ampliada):
 
-![imagen](ejemploImagen.PNG)
+![imagen](src/ejemploImagen.PNG)
 
 Podemos encontrar pequeños patrones como este:
 
-![imagen](ejemploPatron.PNG)
+![imagen](src/ejemploPatron.PNG)
 
 
 1) Encuentra la posición central de todos los patrones que corresponden con el patrón 'patron1.bmp' en la imagen 'imagen1.bmp' y muestra las posiciones (x,y) por pantalla.
