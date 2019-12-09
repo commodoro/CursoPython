@@ -95,7 +95,7 @@ No se requiere material por parte del alumno. Si este lo desea, puede traer un o
 
 ## Ranking
 
-Todavía no se han mandado ejercicios.
+Por ahora no hay top5.
 
 ---------------------------------------------------------------
 
