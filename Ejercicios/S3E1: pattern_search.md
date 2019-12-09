@@ -38,9 +38,9 @@ Podemos encontrar pequeños patrones como este:
 ![imagen](src/ejemploPatron.PNG)
 
 
-1) Encuentra la posición central de todos los patrones que corresponden con el patrón 'patron1.bmp' en la imagen 'imagen1.bmp' y muestra las posiciones (x,y) por pantalla.
-2) Encuentra todos los patrones que corresponden con el patrón 'patron2.bmp' (solo la cruz azul, ignora el fondo blanco (255,255,255)) en la imagen 'imagen2.bmp' y rodealos con un cuadrado rojo (255,0,0). Hablamos solo de los cuadrados de 3x3 que tengan una cruz azul y con el centro y exteriores en cualquier color.
-3) Realiza un programa que encuentre cualquier patrón dado por el usuario (máximo 10x10, sin excluir el fondo si tuviera) en cualquier imagen (máximo 2MP) y rodéalos con un cuadrado rojo (si la imagen supera los 0.5MP el cuadrado debe tener 2 píxeles de ancho). Tanto el patrón como la imagen que usaes deben de estar guardados en formato .bmp de 24 bits.
-4) **[Extra - No Oblig.]** Extiende el programa del apartado 3 para que podamos excluir un color del patrón a la hora de buscar (como hacemos con el blanco en el apartado 2).
+1. Encuentra la posición central de todos los patrones que corresponden con el patrón 'patron1.bmp' en la imagen 'imagen1.bmp' y muestra las posiciones (x,y) por pantalla.
+2. Encuentra todos los patrones que corresponden con el patrón 'patron2.bmp' (solo la cruz azul, ignora el fondo blanco (255,255,255)) en la imagen 'imagen2.bmp' y rodealos con un cuadrado rojo (255,0,0). Hablamos solo de los cuadrados de 3x3 que tengan una cruz azul y con el centro y exteriores en cualquier color.
+3. Realiza un programa que encuentre cualquier patrón dado por el usuario (máximo 10x10, sin excluir el fondo si tuviera) en cualquier imagen (máximo 2MP) y rodéalos con un cuadrado rojo (si la imagen supera los 0.5MP el cuadrado debe tener 2 píxeles de ancho). Tanto el patrón como la imagen que usaes deben de estar guardados en formato .bmp de 24 bits.
+4. **[Extra - No Oblig.]** Extiende el programa del apartado 3 para que podamos excluir un color del patrón a la hora de buscar (como hacemos con el blanco en el apartado 2).
 
 Se pueden realizar patrones e imagénes de forma sencilla modificando píxel por píxel con programas como Paint (Windows) o GIMP (Windows, Linux). 
