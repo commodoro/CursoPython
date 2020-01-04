@@ -1,0 +1,13 @@
+tratamiento,localizacion,temp,humedad
+t1,arriba,22,55
+t1,arriba,21,54
+t1,abajo,16,54
+t1,abajo,15,57
+t1,fuera,10,46
+t1,fuera,9,45
+t2,arriba,21,57
+t2,arriba,23,55
+t2,abajo,17,57
+t2,abajo,16,54
+t2,fuera,11,44
+t2,fuera,10,45
