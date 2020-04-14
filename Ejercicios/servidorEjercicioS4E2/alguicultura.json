@@ -11,7 +11,8 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "10/18/19",
-            "species": "spirulina"
+            "species": "spirulina",
+            "capacity(L)": 5600
         },
         {
             "id": 1,
@@ -23,7 +24,8 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "11/10/19",
-            "species": "dulse"
+            "species": "dulse",
+            "capacity(L)": 5600
         },
         {
             "id": 2,
@@ -35,7 +37,8 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "10/02/19",
-            "species": "spirulina"
+            "species": "spirulina",
+            "capacity(L)": 8000
         },
         {
             "id": 3,
@@ -47,7 +50,8 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "11/27/19",
-            "species": "dulse"
+            "species": "dulse",
+            "capacity(L)": 8000
         },
         {
             "id": 4,
@@ -59,7 +63,8 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "01/09/20",
-            "species": "euchema cottonii"
+            "species": "euchema cottonii",
+            "capacity(L)": 10000
         },
         {
             "id": 5,
@@ -71,10 +76,13 @@
             },
             "last_feeding": 1586990546.10,
             "release_date": "01/09/20",
-            "species": "euchema cottonii"
+            "species": "euchema cottonii",
+            "capacity(L)": 10000
         }
     ],
     "localization": "Cartagena",
+    "area": "1680m2",
+    "foundation": "2011",
     "contact": {
         "email": "contact@algcart.es",
         "phone": "600-ALGACT"
