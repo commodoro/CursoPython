@@ -1,0 +1,87 @@
+{
+    "company": "Alguicultura Cartagena SL.",
+    "pools": [
+        {
+            "id": 0,
+            "sensors": {
+                "ph": 6.1,
+                "temp": 20.1,
+                "sali": 24.1,
+                "refr": 8.32
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "10/18/19",
+            "species": "spirulina"
+        },
+        {
+            "id": 1,
+            "sensors": {
+                "ph": 7.2,
+                "temp": 15.1,
+                "sali": 20.5,
+                "refr": 6.83
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "11/10/19",
+            "species": "dulse"
+        },
+        {
+            "id": 2,
+            "sensors": {
+                "ph": 6.1,
+                "temp": 20.1,
+                "sali": 24.1,
+                "refr": 8.32
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "10/02/19",
+            "species": "spirulina"
+        },
+        {
+            "id": 3,
+            "sensors": {
+                "ph": 7.2,
+                "temp": 15.1,
+                "sali": 20.5,
+                "refr": 6.83
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "11/27/19",
+            "species": "dulse"
+        },
+        {
+            "id": 4,
+            "sensors": {
+                "ph": 6.9,
+                "temp": 22.1,
+                "sali": 23.2,
+                "refr": 7.76
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "01/09/20",
+            "species": "euchema cottonii"
+        },
+        {
+            "id": 5,
+            "sensors": {
+                "ph": 7.0,
+                "temp": 21.9,
+                "sali": 23.5,
+                "refr": 7.70
+            },
+            "last_feeding": 1586990546.10,
+            "release_date": "01/09/20",
+            "species": "euchema cottonii"
+        }
+    ],
+    "localization": "Cartagena",
+    "contact": {
+        "email": "contact@algcart.es",
+        "phone": "600-ALGACT"
+    },
+    "last_sys_check": 1582990546.91,
+    "checked_by": {
+        "name": "Mariano",
+        "id": "001-E"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "pools": [
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        },
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        },
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        },
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        },
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        },
+        {
+            "ph": 0,
+            "temp": 0,
+            "sali": 0,
+            "refr": 0
+        }
+    ]
+}
