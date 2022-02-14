@@ -2,6 +2,9 @@
 
 ![alt text][logo]
 
+## Inscripción
+
+**Incríbete en el siguiente enlace para conseguir tu certificado**: [Pincha aquí](https://forms.gle/7CraamDV6hcqJZvj8)
 ## Resumen
 
 **Python** es un lenguaje de programación cuya popularidad en las últimas décadas ha coincidido con el auge del análisis de datos, la IA y la expansión de internet. No es casualidad: Python es el marco perfecto para desarrollar este tipo de aplicaciones. Además, gran parte de las APIs -Interfaces de Programación- que se usan en estos sectores de vanguardia están disponibles en Python (a veces exclusivamente).
@@ -46,17 +49,18 @@ Además, los conocimientos adquiridos en este curso son una base firme para adqu
 
 ## Lugar
 
-Las clases se impartirán en el aula de idiomas de la biblioteca del edificio de la Antigones.
+Las clases se impartirán en una aula de la escuela de industriales.
 
 ## Material
 
-Cada alumno dispondrá de un ordenador con el intérprete de Python instalado y un entorno de desarrollo. Adiccionalmente tras cada sesión se entregará documentación relacionada con el contenido de la misma en formato digital.
+Cada alumno debe disponer de un ordenador con el intérprete de Python instalado y un entorno de desarrollo. Adiccionalmente tras cada sesión se entregará documentación relacionada con el contenido de la misma en formato digital.
 
-No se requiere material por parte del alumno. Si este lo desea, puede traer un ordenador portátil. Todo el software utilizado es libre.
+Si el alumno no tiene ordenador portátil, se le prestará uno en las sesiones pero es recomendable que lleve uno para su trabajo personal. Todo el software utilizado es libre y gratuito.
 
 ## Contenido
 
 ### Sesión 1 - Introducción a Python.
+* Entorno local y Jupiter.
 * Hola Mundo.
 * Tipos de datos.
 * Expresiones y Variables.
@@ -71,15 +75,14 @@ No se requiere material por parte del alumno. Si este lo desea, puede traer un o
 
 ### Sesión 3 - Estructuras de datos.
 * Listas y Tuplas.
-* Conjuntos (sets).
 * Diccionarios.
+* Algoritmos básicos.
 
 ### Sesión 4 - Programación orientada a objetos
 * Introducción a POO.
 * Métodos.
-* Herencia.
 * Manejo de Errores.
-* Iteradores.
+* Numpy.
 
 ### Sesión 5 - Trabajando datos en Python.
 * Leyendo ficheros.
@@ -87,11 +90,9 @@ No se requiere material por parte del alumno. Si este lo desea, puede traer un o
 * Operador de contexto.
 * Manejo de datos con Pandas.
 
-### Sesión 6 - Numpy y graficado de datos.
-* IPython / Jupiter.
-* NumPy.
-* Graficado de datos.
-
+### Sesión 6 - Graficado de datos.
+* Graficado de datos con Matplotlib.
+* Práctica Sistema Tiempo Real.
 
 ## Ranking
 
