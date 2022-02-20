@@ -55,12 +55,11 @@ Las clases se impartirán en una aula de la escuela de industriales.
 
 Cada alumno debe disponer de un ordenador con el intérprete de Python instalado y un entorno de desarrollo. Adiccionalmente tras cada sesión se entregará documentación relacionada con el contenido de la misma en formato digital.
 
-Si el alumno no tiene ordenador portátil, se le prestará uno en las sesiones pero es recomendable que lleve uno para su trabajo personal. Todo el software utilizado es libre y gratuito.
+Si el alumno no tiene ordenador portátil, se le prestará uno en las sesiones pero es recomendable que cada participante lleve uno para su trabajo personal. Todo el software utilizado es libre y gratuito.
 
 ## Contenido
 
 ### Sesión 1 - Introducción a Python.
-* Entorno local y Jupiter.
 * Hola Mundo.
 * Tipos de datos.
 * Expresiones y Variables.
@@ -76,11 +75,11 @@ Si el alumno no tiene ordenador portátil, se le prestará uno en las sesiones p
 ### Sesión 3 - Estructuras de datos.
 * Listas y Tuplas.
 * Diccionarios.
-* Algoritmos básicos.
+* Algoritmos con estructuras.
 
 ### Sesión 4 - Programación orientada a objetos
 * Introducción a POO.
-* Métodos.
+* Clases y Métodos.
 * Manejo de Errores.
 * Numpy.
 
@@ -92,7 +91,7 @@ Si el alumno no tiene ordenador portátil, se le prestará uno en las sesiones p
 
 ### Sesión 6 - Graficado de datos.
 * Graficado de datos con Matplotlib.
-* Práctica Sistema Tiempo Real.
+* Aplicaciones.
 
 ## Ranking
 
